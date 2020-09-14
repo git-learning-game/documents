@@ -1,3 +1,27 @@
+# Week 2 (2020-09-14)
+
+What did we do last week?
+
+- Getting the game to run on Windows! This was something that seemed difficult, and which we wanted to get out of the way. Fortunately, just plugging in the portable version of the Git Bash instead of /bin/bash seemed to work pretty immediately. :)
+- Implementing "win conditions" for levels. They are simply bash scripts that are run on a repo and either exit with code 0 or 1. This mechanism allows us to have a [playable level sequence](https://twitter.com/blinry/status/1304685656405409792).
+- When considering which dependencies which we can build on, we found that because Git depends on Perl anyway, we will always have Perl. This will be useful for writing little helper scripts, and we switched our "fake editor" to Perl.
+- Wrote [one of the prettiest lines of code](https://github.com/git-learning-game/git-hydra/blob/master/shell.gd#L49) of our lives... This is a workaround for an unfortunate quoting behaviour on Godot's side, but should fix the problem.
+
+What do we plan to do this week?
+
+- How can we communicate with Git processes that take input while they are running? (For example `git add -i`.)
+- Polish level texts and appearance a bit, so that we can show it to the very first alpha testers! :O
+
+What's blocking us?
+
+- Working with a Windows VM is *not pleasant*, and really slow. blinry might want to install Windows on a real machine.
+
+What's motivating us?
+
+- Getting uncertain technical problems out of the way first feels good and the project overall feels more doable :)
+- We're looking forward to the very first test runs! Curious what people might say, and whether the game will work for them!
+
+
 # Week 1 (2020-09-07)
 
 What did we do last week?
@@ -23,3 +47,14 @@ What's motivating us?
 - Many people filled out our [pre-project survey](https://docs.google.com/forms/d/e/1FAIpQLScUG41naRSm_l1tg08eblze0qtNw2foMDQJP3aGqCZES6gfZw/viewform) and gave super helpful input! :)
 - General excitement for finally starting with this project!
 - We're planning to participate in a tradition in the indie gamedev world, where you post about your game on Saturdays, with the hashtag #screenshotsaturday. Here's our [first post with a video](https://twitter.com/blinry/status/1302175196284096512)!
+
+
+# Week (2020-)
+
+What did we do last week?
+
+What do we plan to do this week?
+
+What's blocking us?
+
+What's motivating us?

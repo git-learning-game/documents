@@ -1,3 +1,32 @@
+
+# Week 3 (2020-09-12)
+
+What did we do last week?
+
+- Some polishing of the UI
+- A lot of polishing of the level sequence. At this point, we have levels that explain almost all Git internals, with the exception of annotated tags \o/
+- First playtesting with two experienced Git users!! Main takeaways:
+  - The game seemed to work on their Linux machines, which is good. We found a small problem that seems fixable.
+  - They didn't seem too annoyed with the UI or our terminal, which is good ;)
+  - We definitely need a built-in documentation, because people will forget the commands we teach them quickly: a cheat sheet? A man page browser?
+  - What is the motivation of people who are new to Git to play the game? Should we explain things top-down for them, starting with the commands they will actually use?
+
+What do we plan to do this week?
+
+- Implementing a first prototype of a "cheat-sheet" so that users can write down important commands or information
+- Learn more about Godot's GUI system works in detail
+- Try writing a series of high-level introduction levels?
+
+What's blocking us?
+
+- Not really blocking, but after this prototype, there are a lot of directions we could proceed in, and it's unclear which is best.
+
+What's motivating us?
+
+- The Playtests and showing first prototypes to others :)
+- Working together on this project is really fun and works well. We're basically pair-programming all the time. :)
+
+
 # Week 2 (2020-09-14)
 
 What did we do last week?

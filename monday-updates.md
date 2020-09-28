@@ -1,3 +1,27 @@
+# Week 4 (2020-09-28)
+
+What did we do last week?
+- We built a file explorer, so players can better understand how their repository folder changes
+- Started building a simple autocompletion mechanism, which should help players remember Git subcommands
+- Learned more about how Godot's UI system works, polished the appearance a lot and started building a simple "theme"
+- We recorded a first Dev-Log video where we show and talk a bit about our progress: [Dev-Log #1](https://youtu.be/bXERJIZnaXg)
+- Built a "sandbox mode" with just a terminal and a visualization, which is optimized to record simple explainer videos. In a first example, we talk about what [git replace](https://www.youtube.com/watch?v=gHFnEylQP4k) does.
+
+What do we plan to do this week?
+
+- Plan which features we want to include in the second prototype.
+- Sketch some new ideas for how puzzles and levels could work.
+- Continue improving the autocomplete feature.
+
+What's blocking us?
+
+- Interactive commands are tricky to implement in our terminal. We tried different approaches and have a somewhat working version, but are not yet completely satisfied with the result.
+
+What's motivating us?
+
+- Seeing interest in the dev-log video was nice! We got a few new people interested in doing playtesting, as well as our first (very valid) [issue](https://github.com/git-learning-game/git-hydra/issues/1).
+- We're generally really interested in learning about all the obscure features of Git ourselves! :)
+
 
 # Week 3 (2020-09-12)
 

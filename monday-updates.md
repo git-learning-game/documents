@@ -1,6 +1,36 @@
+# Week (2020-10-05)
+
+What did we do last week?
+
+- Thought a bit about possible other game modes, like a "deck building" game :P
+- Added the possibility to split levels into "chapters".
+- Implemented a new level format, which should make it easier to write new levels - for ourselves, and for people who want to contribute!
+- Clever node positioning to get better graph layouts.
+- Command line switch to start sandbox mode in one of your own projects (git-hydra --sandbox=.)
+- A lot of code refactoring, to make it more maintainable.
+
+What do we plan to do this week?
+
+- Documentation! Add a README, a license, and a CoC to the project, and explain how to contribute code and levels.
+- Probably fix a lot of bugs along the way. ;P
+- We plan to be able to invite community-contributed levels by the end of the week.
+- Check out how to bundle git with our godot game on Linux to ship it with a current git version.
+
+What's blocking us?
+
+- How to balance learning and fun? The coaching this month might help get us more insights.
+- We didn't make progress on allowing interactive commands (like `git add -p`). It's lingering in the backs of our heads a bit.
+
+What's motivating us?
+
+- Looking forward to a next gameplay session and user generated levels :D
+- We're excited about giving the game better visuals – might go in the direction of a solarpunk aesthetic?
+- The realization that interactive rebasing... just... works already!
+
 # Week 4 (2020-09-28)
 
 What did we do last week?
+
 - We built a file explorer, so players can better understand how their repository folder changes
 - Started building a simple autocompletion mechanism, which should help players remember Git subcommands
 - Learned more about how Godot's UI system works, polished the appearance a lot and started building a simple "theme"

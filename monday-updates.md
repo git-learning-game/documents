@@ -2,7 +2,7 @@
 
 **What did we do last week?**
 
-- Thought a bit about possible other game modes, like a "deck building" game :P
+- Thought a bit about possible other game modes, like a "deck building" game, where you play cards that say "git reset --hard HEAD", for example. :P
 - Added the possibility to split levels into "chapters".
 - Implemented a new level format, which should make it easier to write new levels - for ourselves, and for people who want to contribute!
 - Clever node positioning to get better graph layouts.
@@ -26,6 +26,7 @@
 - Looking forward to a next gameplay session and user generated levels :D
 - We're excited about giving the game better visuals – might go in the direction of a solarpunk aesthetic?
 - The realization that interactive rebasing... just... works already!
+
 
 # Week 4 (2020-09-28)
 
@@ -136,8 +137,16 @@
 
 **What did we do last week?**
 
+- 
+
 **What do we plan to do this week?**
+
+- 
 
 **What's blocking us?**
 
+- 
+
 **What's motivating us?**
+
+- 

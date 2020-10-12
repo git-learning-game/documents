@@ -1,3 +1,28 @@
+# Week (2020-10-12)
+
+**What did we do last week?**
+
+- Tested the game on macOS, and made some tiny changes that allow it to run there!
+- Automatically compile executables and deploy them to github pages
+- Add some missing shortcuts for convenience, like Ctrl+S for saving a file, and Ctrl+W for deleting the last word.
+- We had our first coaching session with John from Zero360 \o/ Main takeaway: He motivated us to try more graphical interface systems for interacting with Git repos, like something block-based, which would be friendlier to people who are really new to the command line. Maybe we can then gradually transition to a "pure" command line UI?
+
+**What do we plan to do this week?**
+
+- Experimenting with graphical UIs
+- Decide on a license :) We tend towards something pretty permissive?
+- Finish up some documentation.
+- Record a new dev (v)log, and invite people to try to build their own levels
+
+**What's blocking us?**
+
+- Nothing in sight ^_^
+
+**What's motivating us?**
+
+- Getting the game to run on macOS was surprisingly straightforward! :)
+- looking forward to play with fancy GUI stuff
+
 # Week (2020-10-05)
 
 **What did we do last week?**

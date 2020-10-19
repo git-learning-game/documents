@@ -1,3 +1,28 @@
+# Week (2020-10-19)
+
+**What did we do last week?**
+
+- Implemented a "playing card" interface, inspired by games like Hearthstone: each card contains a command, like "git push" or "git checkout", and if you drag it into the game (or on a commit), it is executed. Definitely fun for ourselves to play with! We are not sure yet whether this is an interface we'll really use, but it could be neat to be able to give new cards to players as a reward - "here's your git push -f card" :3
+- Recorded [Dev-Log #2](https://youtu.be/w3oEKqKMQOc)
+- Wrote as good as a [README](https://github.com/git-learning-game/git-hydra/blob/main/README.md) as we could, which describes installation instructions, and how to contribute!
+- Added the [Contributor Covenant](https://www.contributor-covenant.org/) and the [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0).
+- Made our first payment request.
+
+**What do we plan to do this week?**
+
+- Building new levels in the "time travel" theme
+- Test whether the game still runs on Windows, probably make slight tweaks, have our CI produce Windows builds
+- Plan and do a new round of playtesting!
+
+**What's blocking us?**
+
+- Virus-related anxiety :(
+
+**What's motivating us?**
+
+- The prospect of having people playtest is always motivating to get the game into a more polished state! :)
+
+
 # Week (2020-10-12)
 
 **What did we do last week?**
@@ -22,6 +47,7 @@
 
 - Getting the game to run on macOS was surprisingly straightforward! :)
 - looking forward to play with fancy GUI stuff
+
 
 # Week (2020-10-05)
 

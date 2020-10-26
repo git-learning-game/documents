@@ -1,3 +1,26 @@
+# Week (2020-10-26)
+
+**What did we do last week?**
+
+- A lot of debugging on Windows :D Had a very stubborn bug, but we found it in the end. The game *almost* runs on Windows again, just need to solve another problem related to command execution.
+- Visual File Explorer for a nice graphical representation of different commit states, of the index, and of the working directory. This should be much more beginner-friendly!
+- Wrote a short sequence of levels where the player is a time travel agent and can help solve temporal paradoxes. We thing this approach is promising: it very quickly makes you focus on the *content* of commits, which, in the end, seems quite important.
+- Failed to find people for playtesting this week, but we found at least one for this week.
+
+**What do we plan to do this week?**
+
+- Playtest on Friday
+- Polish Timetravel Levels, maybe add a few advanced ones
+- Improve the playing card system, to more closely integrate it with the level sequence
+
+**What's blocking us?**
+
+- Some University deadlines, but they are over at the end of October :)
+
+**What's motivating us?**
+
+- Playtests \o/
+
 # Week (2020-10-19)
 
 **What did we do last week?**

@@ -1,8 +1,37 @@
-# Week (2020-10-26)
+# Week 9 (2020-11-02)
+
+**What did we do last week?**
+- Building Prototype 3 with lot's of polishing: horizontal level layout,
+- More graphics: Symbols on the playing cards, an "avatar" in the form of a small monster instead of "HEAD"
+- Restructured the high-level layout of the screen a bit
+- new levels with the time travel topic
+- 2 Playtests on Friday:
+  - People generally seemed to like the "time travel" theme :D
+  - People were a bit confused by file explorers for the working directory *and* on the commits. We might just unify them?
+  - Some early feedback on how to improve accessibility - our fonts are probably way to small.
+- Wrote a short [Twitter thread](https://twitter.com/blinry/status/1322544265629782018) with a gameplay video and links to all the resources
+
+**What do we plan to do this week?**
+
+- We have a strange bug that occasionally crashes the game - without any clear error messages. We need to find and fix it! :D
+- Visualizing Card Targets
+- How could we extend the level format to allow hints during the level?
+
+**What's blocking us?**
+
+- Nothing factual, just some virus and election anxiety?
+
+**What's motivating us?**
+
+- We seem to be on a good path, according to feedback from our beta testers!
+- We are happy to have quiate a clear view what our next steps will be. Feels good :)
+
+
+# Week 8 (2020-10-26)
 
 **What did we do last week?**
 
-- A lot of debugging on Windows :D Had a very stubborn bug, but we found it in the end. The game *almost* runs on Windows again, just need to solve another problem related to command execution.
+- A lot of debugging on Widows :D Had a very stubborn bug, but we found it in the end. The game *almost* runs on Windows again, just need to solve another problem related to command execution.
 - Visual File Explorer for a nice graphical representation of different commit states, of the index, and of the working directory. This should be much more beginner-friendly!
 - Wrote a short sequence of levels where the player is a time travel agent and can help solve temporal paradoxes. We thing this approach is promising: it very quickly makes you focus on the *content* of commits, which, in the end, seems quite important.
 - Failed to find people for playtesting this week, but we found at least one for this week.
@@ -21,7 +50,7 @@
 
 - Playtests \o/
 
-# Week (2020-10-19)
+# Week 7 (2020-10-19)
 
 **What did we do last week?**
 
@@ -46,7 +75,7 @@
 - The prospect of having people playtest is always motivating to get the game into a more polished state! :)
 
 
-# Week (2020-10-12)
+# Week 6 (2020-10-12)
 
 **What did we do last week?**
 
@@ -72,7 +101,7 @@
 - looking forward to play with fancy GUI stuff
 
 
-# Week (2020-10-05)
+# Week 5 (2020-10-05)
 
 **What did we do last week?**
 

@@ -1,3 +1,28 @@
+# Week 10 (2020-11-09)
+
+**What did we do last week?**
+
+- Started working on the bug that randomly crashes the game: we removed a possible error source, but the bug is still there. :O
+- The file explorer can now also show the index and indicates the current file status (new, modified, conflicted) via symbols
+- We noticed that our playtesters sometimes didn't know where to drag the playing cards to run commands. We added a functionality that highlights the "valid" drag targets (commits, refs, or files), which should help with this problem.
+- Current builds of the game are now automatically deployed to [itch.io](https://blinry.itch.io/git-hydra)!
+
+**What do we plan to do this week?**
+
+- Look some more into the random crashes. This is high priority! :D
+- Write more levels that teach how to use the index. We're curious how well the playing card interface scales up when you have more cards.
+- Some fancy glow effect for the drop areas.
+
+**What's blocking us?**
+
+- Nothing in sight :)
+
+**What's motivating us?**
+
+- Results of the US elections! We're pretty relieved!
+- It's pretty neat that building this game helps us get a deep, intuitive understanding of Git ourselves! :)
+
+
 # Week 9 (2020-11-02)
 
 **What did we do last week?**
@@ -24,7 +49,7 @@
 **What's motivating us?**
 
 - We seem to be on a good path, according to feedback from our beta testers!
-- We are happy to have quiate a clear view what our next steps will be. Feels good :)
+- We are happy to have quite a clear view what our next steps will be. Feels good :)
 
 
 # Week 8 (2020-10-26)

@@ -1,3 +1,27 @@
+
+# Week 11 (2020-11-16)
+
+**What did we do last week?**
+
+- Playing cards can now have string parameters, which enables a number of new cool actions, like `git branch [string]` or `touch [string]`.
+- Wrote some new levels, which explain how to create/delete branches, and how to work with files (create, delete, and rename them)
+- Making all fonts 15% larger – this was based on feedback regarding accessibility we got.
+- A friendly person opened a number of small issues in the GitHub project, we fixed them.
+- Adding shader to target halos so players can better see where they can drop their card.
+
+**What do we plan to do this week?**
+
+- Fix MacOS crash (see github issue [#9](https://github.com/git-learning-game/git-hydra/issues/9))
+- Write more levels, which explain concepts we haven't covered yet.
+
+**What's blocking us?**
+
+- Nothing this week :)
+
+**What's motivating us?**
+
+- Talk submissions to FOSDEM might open this week, we're thinking of doing a lightning talk or something. :)
+
 # Week 10 (2020-11-09)
 
 **What did we do last week?**

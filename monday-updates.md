@@ -1,3 +1,25 @@
+# Week 12 (2020-11-23)
+
+**What did we do last week?**
+
+- Fixed MacOS crash caused by a non-existent option for 'sed'
+- Creating a 2D scene for more fun interaction with files. The player can walk around and create/delete/manipulate objects that represent files.
+- Show a combined view of the working directory, of the index, and of the last commit, with halos: the current files are white objects, the index versions are blue halos, the last commit is a faint shadow. Seems like a promising way to build more intuition of how these three interact.
+
+**What do we plan to do this week?**
+
+- Try adding more properties to the 2D objects (something like "what is the character saying right now?")
+- Creating test-levels for the new 2D file scenes
+- We're considering putting the finalized game on Steam in the end. Might look into how all of that works :)
+
+**What's blocking us?**
+
+- Nothing in sight ^_^
+
+**What's motivating us?**
+
+- bleeptrack's job at university runs out, so there's more free time and more energy :)
+- Trying a new direction of having 2D objects in the game is exciting! :D
 
 # Week 11 (2020-11-16)
 

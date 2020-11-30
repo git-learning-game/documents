@@ -1,3 +1,27 @@
+# Week 13 (2020-11-30)
+
+**What did we do last week?**
+
+- Brainstormed on a high level about how a "2D world" would work and what you could do in it. There might be levels about unlocking a chest with a key, and the key is actually a GPG key?! :D
+- Thought about which incentives we could have for moving from the visual playing card interface to the command line. Commands like "rm *" might be well-suited, because they demonstrate the power of the command line?
+- Thought about high-level game structure: there might be two alternating styles of levels: the ones in which you learn new Git stuff in an "official" setting from your teachers, and can use the playing cards. And then, you get levels where you need to apply your new knowledge in a different, more personal setting - maybe playing pranks on people, being sneaky and tricky - and this is where you can use the command line to "trick" the game.
+- Created an inventory to take files through time \o/
+
+**What do we plan to do this week?**
+
+- Drag & Drop item combination
+- Try building a few levels with what we have, see what already works and what's missing
+- Look for inspiration on how the 2D world can work or look like
+
+**What's blocking us?**
+
+- Godot's GUI nodes still feel cumbersome to use. We need a lot of time to wrangle with them, which is time we'd rather spend on making actual content for the game...
+
+**What's motivating us?**
+
+- We saw [this tweet](https://twitter.com/round/status/1331693653740322816) about a 5-dimensional chess game, and someone mentioned that there should be a Git UI like this. That was a really good moment to plug our game, and people seemed interested!
+
+
 # Week 12 (2020-11-23)
 
 **What did we do last week?**
@@ -5,6 +29,7 @@
 - Fixed MacOS crash caused by a non-existent option for 'sed'
 - Creating a 2D scene for more fun interaction with files. The player can walk around and create/delete/manipulate objects that represent files.
 - Show a combined view of the working directory, of the index, and of the last commit, with halos: the current files are white objects, the index versions are blue halos, the last commit is a faint shadow. Seems like a promising way to build more intuition of how these three interact.
+- Had an enjoyable chat with Marie, thanks for that!
 
 **What do we plan to do this week?**
 
@@ -20,6 +45,7 @@
 
 - bleeptrack's job at university runs out, so there's more free time and more energy :)
 - Trying a new direction of having 2D objects in the game is exciting! :D
+
 
 # Week 11 (2020-11-16)
 
@@ -43,6 +69,7 @@
 **What's motivating us?**
 
 - Talk submissions to FOSDEM might open this week, we're thinking of doing a lightning talk or something. :)
+
 
 # Week 10 (2020-11-09)
 

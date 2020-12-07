@@ -1,3 +1,22 @@
+# Week 14 (2020-12-07)
+
+**What did we do last week?**
+
+- We played [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/) to see how they solved some GUI problems that are similar to our cases.
+- Thought some more about what the rules in the 2D world should be like. Looking for a balance between making it simple and interesting.
+
+**What do we plan to do this week?**
+
+- We're on "vacation" this week, except for the call! :)
+
+**What's blocking us?**
+
+- Still not super clear where to go next. We have some ideas, but might schedule another coaching?
+
+**What's motivating us?**
+
+- blinry notices that a planned vacation is really nice! Hasn't done that in a while.
+
 # Week 13 (2020-11-30)
 
 **What did we do last week?**

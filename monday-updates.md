@@ -1,3 +1,23 @@
+# Week 15 (2020-12-14)
+
+**What did we do last week?**
+
+- Vacation \o/
+
+**What do we plan to do this week?**
+
+- Think of a few 2D puzzle mechanisms, implement them, play around with them to see what's fun
+- Submit a lightning talk to FOSDEM, which has finally opened submissions :)
+
+**What's blocking us?**
+
+- Nothing in sight :)
+
+**What's motivating us?**
+
+- Curious what we'll think of the current status when we look at it with fresh eyes :)
+- Requested the first payout today :D
+
 # Week 14 (2020-12-07)
 
 **What did we do last week?**

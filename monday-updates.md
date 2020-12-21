@@ -1,3 +1,27 @@
+# Week 16 (2020-12-21)
+
+**What did we do last week?**
+
+- Call with y'all! :)
+- Looked at [PuzzleGraph](https://runevision.itch.io/puzzlegraph) for inspiration of which mechanisms we could use
+- Had a long brainstorming about all different variations our 2D world could have, and sketched some levels in ASCII style. It's hard to find a balance between an exciting world and not straying too far away from Git.
+- In particular, because we still want the player to be able to use the command line to solve the puzzles, we'd have to prevent certain types of "cheating", where the player can just edit or copy files.
+- Having a "2D world" seems promising because it would often allow us to have very clear goals for the levels - "get to the exit", for example. In the current version, the goals are a bit more fuzzy - "make a merge that results in a file which has these specific properties". But for some concepts we want to teach, we didn't really find good rules/levels that enforce that the player uses Git in a specific way.
+
+**What do we plan to do this week?**
+
+- We'll take some time today to build a roadmap for the last two months!
+- What we'll do today will depend on that. :D
+
+**What's blocking us?**
+
+- We've been doing some conceptual work in the last weeks - because we're thinking about what the next steps are, we can't work efficiently on implementing them, but we think that's okay. :)
+
+**What's motivating us?**
+
+- Having some cozy days around Christmas :D
+
+
 # Week 15 (2020-12-14)
 
 **What did we do last week?**

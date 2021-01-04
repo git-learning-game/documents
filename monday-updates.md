@@ -1,3 +1,34 @@
+# Week 18 (2020-01-04)
+
+**What did we do in week 16?**
+
+- Made a big master plan of everything we still want to do, and assigned the things to weeks. Seems like quite a lot of work, but doable, and we have two unplanned buffer weeks :)
+- Implemented a general "hint" system
+- Extended the level format so that goals can have multiple components, which are displayed
+- Built a general "trigger-action" system, so that we can build more interactive levels – a "friend" who reacts when you push to their repository, for example
+- Built a simple title screen and level picker. It's still ugly, but it works!
+- Sent out a talk submission to FOSDEM
+
+**What do we plan to do this week?**
+
+- Cover all the things we want to teach in the game with simple test levels
+- Optimize the screen layout
+- Remember which levels are solved in a "savegame", and mark them green or something
+- Different levels: cards vs terminal
+- Sandbox mode with all cards
+- Organize playtests for next week
+
+**What's blocking us?**
+
+- We can't think of anything :P
+
+**What's motivating us?**
+
+- The master plan makes it easy to know what to work on when
+- Looking forward to the next playtest!
+
+
+
 # Week 16 (2020-12-21)
 
 **What did we do last week?**

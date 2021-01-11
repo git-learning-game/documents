@@ -1,3 +1,32 @@
+# Week 19 (2020-01-11)
+
+**What did we do last week?**
+
+- Covered most things we want to teach with simple levels. It's not super complete, and the levels don't have "story flavor" yet, but we're getting there. :)
+- Remember which levels are solved and mark them green.
+- Start restructuring the chapters to give a gentle introduction to Git.
+- Set up two playtests for this week!
+
+**What do we plan to do this week?**
+
+- polishing levels and level sequences
+- Coaching with John
+- Performance Optimisation (we might calculate stuff that we are not actually rendering)
+- Implementing interactive terminal commands
+- testing on Mac and Windows
+- Playtest Session
+- Preparing and recording a lightning talk for FOSDEM
+
+**What's blocking us?**
+
+- Political news take some attention and focus away :(
+
+**What's motivating us?**
+
+- Playteeeeests! We picked some folks this time who are relatively new to Git.
+- Again: it's very convenient to have a big master plan :D
+
+
 # Week 18 (2020-01-04)
 
 **What did we do in week 16?**
@@ -26,7 +55,6 @@
 
 - The master plan makes it easy to know what to work on when
 - Looking forward to the next playtest!
-
 
 
 # Week 16 (2020-12-21)

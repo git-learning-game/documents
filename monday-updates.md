@@ -1,3 +1,30 @@
+# Week 20 (2020-01-18)
+
+**What did we do last week?**
+
+- Polished the level sequence for playtesting
+- Sent the second payment request
+- Performance optimization! Loading level now should be ~6 times faster!
+- Test under Windows and macOS
+- Had a playtest, which was really helpful for helping us polish things.
+
+**What do we plan to do this week?**
+- Quick check if we can optimize something in the overall layout
+- Implement badge system (level only completed by terminal commands)
+- Create and link feedback survey
+- Create steam page
+- Brainstorm for story?overall design aesthetic
+- FOSDEM Talk preparations and recording
+
+**What's blocking us?**
+
+- Not really a blocker, just general frustration about the virus situation.
+
+**What's motivating us?**
+
+- Still playtests :D Have another one scheduled for today.
+
+
 # Week 19 (2020-01-11)
 
 **What did we do last week?**

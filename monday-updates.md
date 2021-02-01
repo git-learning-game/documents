@@ -1,3 +1,63 @@
+# Week 22 (2020-02-01)
+
+**What did we do last week?**
+
+- Set up a [feedback survey](https://docs.google.com/forms/d/e/1FAIpQLSehHVcYfELT59h6plcn2ilbuqBcmDX3TH0qzB4jCgFIFOy_qg/viewform) where people can give feedback after they've played the game. It's automatically displayed when you quit the game.
+- **This would be a really good time for y'all to try our Git game, if you want! You can find current builds for Linux, Mac, and Windows [here](blinry.itch.io/git-hydra)!**
+- Brainstormed more things about the story and the setting
+- Investigated how we could create a "certificate" for people to print after they've played to the end.
+- Registered as a developer on Steam, which involved filling out a looot of forms. Doing it as a GbR should be fine, we think. Now we're waiting to be reviewed. Interesting to see how this works from the inside!
+
+**What do we plan to do this week?**
+
+- Prepare for FOSDEM: set up a site with all the links people could be interested in
+- Pick a name! :O We made a [poll](https://www.allourideas.org/git-learning-game), where you're super welcome to add your suggestions and vote for others! Some of our favorites currently are something like "Oh My Git", "Git Guru", "Ghost In Time". What do you think?
+- Design a logo
+- nice graphics for slash screen
+- design a new pet/monster
+- polish the content of the first 3-4 levels
+- Get lot's of feedback
+
+**What's blocking us?**
+
+- At this point, we've used up all the time we will be paid for via the Prototype Fund, which is a bit of a downer. Still we're pretty motivated to put in time this month.
+- We don't have a good overview of the current levels and their status. We'll make a big table with checkboxes of what's left to do tomorrow.
+
+**What's motivating us?**
+
+- Seeing all cool projects at Demoweek \o/
+- Looking forward to the FOSDEM weekend!
+- The feeling that everything is coming together pretty much for this project. :)
+
+# Week 21 (2020-01-25)
+
+**What did we do last week?**
+
+- 2 Gameplay tests: one participant was extra excited to learn more about git on a command line \o/
+- Minor Layout changes and polishing
+- Implemented badges you get when you solve levels using only the CLI. They are golden and sparkle.
+- Added hints that explain gameplay elements when they appear for the first time.
+- Read a bit documentation on how to release games on Steam. We're not sure whether we can register there as a GbR yet.
+- Made all fonts a lot prettier
+- Did a little brainstorming session about the story and overall aesthetic
+- Recorded FOSDEM talk :) It'll be streamed [on 2021-02-07 at 14:40 UTC+1](https://fosdem.org/2021/schedule/event/git_learning_game/)!
+- Check-In meeting with Tasmo
+
+**What do we plan to do this week?**
+
+- Build a feedback survey for people who play the game without us watching. We were really inspired by the Chatmosphere survey. :)
+- Storify the existing chapters better
+- Add more chapters?
+
+**What's blocking us?**
+
+- This week, blinry will be at a "Make Your School" event and teach electronics stuff to kids, this takes some time away from the game (but is also pretty fun!)
+
+**What's motivating us?**
+
+- Showing our game at FOSDEM
+- Got pretty great feedback in our playtests
+
 # Week 20 (2020-01-18)
 
 **What did we do last week?**

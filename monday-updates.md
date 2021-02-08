@@ -1,3 +1,32 @@
+# Week 23 (2020-02-08)
+
+**What did we do last week?**
+
+- Polished the beginning of the level sequence a bit more.
+- Designed a new "monster" representing the HEAD pointer. Our nickname is "Hörnchen", it's an owl-cat with horns ;)
+- We're going with the name "Oh My Git!". One technique that seemed helpful for making a decision was to actually put the name on the title screen, and see how we like it. We disregarded the name "Git Guru" after that, because it seemed a bit... boring and old-fashioned?
+- Adapted all the links. The repo is now [here](https://github.com/git-learning-game/oh-my-git).
+- Initial logo design. [Have a look!](https://raw.githubusercontent.com/git-learning-game/oh-my-git/main/images/oh-my-git.png) :D We might dial the excitedness down a bit again.
+- We gave a talk at fosdem \o/ People generally seemed to like the idea! The number one wish was to have an in-browser version, one suggestion for how to do that was [wasm-git](https://github.com/petersalomonsen/wasm-git).
+- We checked out the music a friend created for us and chose our favorite track for refinement
+
+**What do we plan to do this week?**
+
+- Check feedback survey entries, and prioritize incoming wishes :)
+- Writing a short text for the demoweek website
+- planning the trailer
+- Polish levels some more. This is a bit of an endless task, but also really important.
+- Polish the appearance of all playing cards
+- Plan the last and probably final playtest session
+
+**What's blocking us?**
+
+- We can't think of anything. :)
+
+**What's motivating us?**
+
+- All the nice feedback from the FOSDEM talk :3 We've been working towards this for a while, and it's nice to see it pay off!
+
 # Week 22 (2020-02-01)
 
 **What did we do last week?**

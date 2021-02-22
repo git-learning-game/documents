@@ -1,4 +1,55 @@
-# Week 23 (2020-02-08)
+# Week 25 (2021-02-22)
+
+**What did we do last week?**
+
+- Adding icons to cards: commands now also have icons instead of text for arguments. Also now all cards have descriptive icons.
+- Added CLI hints to some earlier levels, that help people who're really interested in learning that stuff.
+- Demoweek preparations! Build a title image, cut the final version of the trailer
+- Add a glow effect for cards that have not been played yet, as an incentive to try them.
+- Did another playtest, with a person who knows a lot about UX and interfaces (which we totally didn't know before!) – got some pretty helpful feedback for final polishing, and our playtester how has a better concept of what branches are! \o/
+
+**What do we plan to do this week?**
+
+- Checking out what content is needed for a steam page
+- Updating the itch.io page with new content
+- building a press kit and writing to possible multiplicators (github, etc)
+- minor improvements after jan's playtest; prioritizing issues we found in the playtest
+- Do a final retrospective on how the project went, what we would do differently next time, what we wouldn't change :)
+
+**What's blocking us?**
+
+- Bit sad that the funding phase is now over!
+- But otherwise, we're pretty happy with how this project went.
+
+**What's motivating us?**
+
+- Curious whether we'll get more feedback from organizations or companies about the game!
+- Seeing the results of all other groups in the demoweek
+
+# Week 24 (2021-02-15)
+
+**What did we do last week?**
+
+- We recorded and cut a trailer
+- Went through the feedback we got through our feedback survey after FOSDEM. 18 people wrote in, which is awesome!
+- We extracted actionable points, and fixed the most important ones.
+- We wrote an article for Demoweek. It was super interesting so make videos and screenshots of the different progression stages.
+
+**What do we plan to do this week?**
+
+- Some more preparations for Demoweek
+- More polishing and Bugfixing
+
+**What's blocking us?**
+
+- The pandemic is so annoying :( When schools re-open, we'll probably have another, stronger lockdown in a few weeks...
+- blinry has a tooth procedure this week, so we'll have to see where we'll move our work day.
+
+**What's motivating us?**
+
+- Demoweek is coming :D
+
+# Week 23 (2021-02-08)
 
 **What did we do last week?**
 
@@ -27,7 +78,7 @@
 
 - All the nice feedback from the FOSDEM talk :3 We've been working towards this for a while, and it's nice to see it pay off!
 
-# Week 22 (2020-02-01)
+# Week 22 (2021-02-01)
 
 **What did we do last week?**
 
@@ -58,7 +109,7 @@
 - Looking forward to the FOSDEM weekend!
 - The feeling that everything is coming together pretty much for this project. :)
 
-# Week 21 (2020-01-25)
+# Week 21 (2021-01-25)
 
 **What did we do last week?**
 
@@ -87,7 +138,7 @@
 - Showing our game at FOSDEM
 - Got pretty great feedback in our playtests
 
-# Week 20 (2020-01-18)
+# Week 20 (2021-01-18)
 
 **What did we do last week?**
 
@@ -114,7 +165,7 @@
 - Still playtests :D Have another one scheduled for today.
 
 
-# Week 19 (2020-01-11)
+# Week 19 (2021-01-11)
 
 **What did we do last week?**
 
@@ -143,7 +194,7 @@
 - Again: it's very convenient to have a big master plan :D
 
 
-# Week 18 (2020-01-04)
+# Week 18 (2021-01-04)
 
 **What did we do in week 16?**
 
